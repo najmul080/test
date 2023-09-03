@@ -85,14 +85,15 @@ margin-bottom: 30px;
         flex-direction: column;
     }
    
+   
 }
-@media screen and (min-width:576) and (max-width:992){
+@media screen and (min-width:576px) and (max-width:992px){
     .header{
         padding: 50px;
     }
     .headertitle{
         flex-direction: column;
-        margin-left: 0px;
+       
        
     }
   
