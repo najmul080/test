@@ -23,7 +23,7 @@ nav>ul{
 }
 nav li{
     list-style: none;
-    margin-left: 50px;
+    margin-right: 50px;
     color: var(--Dark-02, #424242);
 text-align: center;
 font-size: 18px;
@@ -92,6 +92,7 @@ margin-bottom: 30px;
     }
     .headertitle{
         flex-direction: column;
+        margin-left: 0px;
        
     }
   
